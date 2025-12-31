@@ -1,67 +1,113 @@
-# Hi there! I'm a CS Undergrad @ MACE 👋
+<div align="center">
 
-> *Aspiring AI Engineer | Cybersecurity Enthusiast | Open Source Contributor*
+<h1 style="font-family: monospace; color:#39ff14;">
+▌ BOOT SEQUENCE INITIATED ▐
+</h1>
 
-I am a **Computer Science and Engineering** student at **Mar Athanasius College of Engineering** (Class of 2027), passionate about building intelligent systems and securing digital infrastructures. **When I'm not coding, I'm usually burning my fingers with a soldering iron or breaking my Linux config just to see if I can fix it.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=650&lines=booting+user@github:~;loading+modules:+ai,+cybersec,+oss;access+granted+✔;welcome,+evin." />
 
----
+<p style="color:#8b949e;font-family:monospace;">
+[ CS Undergrad @ MACE | AI × Cybersecurity | Open Source ]
+</p>
 
-### 🚀 About Me
+</div>
 
-- 🎓 **Education:** B.Tech in CSE at Mar Athanasius College of Engineering.
-- 🔭 **I’m currently working on:** Developing **MiragePot**, a specialized cybersecurity deception system.
-- 🌱 **I’m currently learning:** Computer Vision, NLP, and Advanced Generative AI.
-- 🛡️ **Interest Areas:** Machine Learning, Threat Management, and Low-level Programming (8086 Assembly).
-- 🤝 **Community:** Vice Chair at **IEEE Computer Society MACE** & Program Committee Exec at **GDGoC MACE**.
-- 🏆 **Certifications:** OCI Generative AI Professional & OCI AI Foundations Associate.
+<hr>
 
----
+<pre>
+root@mace:~$ whoami
 
-### 🛠️ Tech Stack & Tools
+Evin — Computer Science & Engineering undergrad
+Mar Athanasius College of Engineering · Class of 2027
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | Python, C, C++, JavaScript, Dart, 8086 Assembly |
-| **AI/ML** | PyTorch, TensorFlow, OpenCV, Hugging Face, LLMs |
-| **Web & Mobile** | React.js, Flask, Node.js, Flutter |
-| **Database** | Supabase, PostgreSQL, Firebase |
-| **OS/Tools** | Linux (Arch/Omarchy), Git, Docker, Hyprland |
+Threat models by day, broken Linux configs by night.
+I solder hardware, reverse things that shouldn’t be reversed,
+and rebuild systems just to understand why they failed.
+</pre>
 
----
+<hr>
 
-### 💻 Featured Projects
+<pre>
+root@mace:~$ cat /proc/user_status
+{
+  "current_target": "MiragePot — Cybersecurity Deception System",
+  "learning_stack": [
+    "Computer Vision",
+    "Natural Language Processing",
+    "Generative AI"
+  ],
+  "fixations": [
+    "Machine Learning",
+    "Threat Intelligence",
+    "8086 Assembly",
+    "Ergonomic Split Keyboards"
+  ],
+  "roles": [
+    "Organizer — LUMORA Hackathon (Jan 2026)",
+    "Vice Chair — IEEE CS MACE",
+    "Program Committee — GDGoC MACE"
+  ],
+  "certifications": [
+    "OCI Generative AI Professional",
+    "OCI AI Foundations Associate"
+  ]
+}
+</pre>
 
-#### 📍 **[BEACON](https://github.com/evinbrijesh/BEACON.git)**
-*A Flutter-Based Anti-Drug Addiction Support Application.*
-- Built using **Flutter** and **Firebase** to track recovery challenges, milestones, and progress in real-time.
-- Integrates notifications and resource links to encourage sustained recovery.
+<hr>
 
-#### 🛡️ **[VulnTracker](https://github.com/evinbrijesh/VulnTracker.git)**
-*Web-based Cybersecurity Threat Management Platform.*
-- **Tech Stack:** React, Flask, Supabase.
-- A comprehensive tool for tracking, analyzing, and managing cybersecurity vulnerabilities in real-time.
+<pre>
+root@mace:~$ ./enumerate_toolchain.sh
 
----
-
-### 🌟 Leadership & Community
-
-* **Organizer, LUMORA Hackathon:** Leading the organization of a major UI/UX hackathon (Jan 2026).
-* **Vice Chair, IEEE Computer Society MACE:** (March 2025 - Present) Driving technical initiatives and workshops.
-* **Program Committee Executive, GDGoC MACE:** (Sept 2025 - Present) Managing event logistics and technical sessions.
-
----
-
-### ⚡ Fun Fact
-
-I'm a bit of a hardware geek and a creative at heart! 🎨⚽
-I build my own **custom PCs** and **split ergonomic keyboards** (currently using a **Corne v4.1**). Away from the screen, I simply enjoy **drawing** and **dancing**, or playing **football** and **badminton** whenever I get the chance.
-
----
-
-### 📫 Connect with Me
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/evinbrijesh/)
+languages   : Python, C, C++, JavaScript, Dart, Assembly
+ai_ml       : PyTorch, TensorFlow, OpenCV, HuggingFace
+frameworks  : Flutter, React, Flask, Firebase, Supabase
+environment : Arch Linux, Hyprland, Docker, Git, Vim
+</pre>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=git+commit+-m+%22Thanks+for+visiting!%22;git+push+origin+main;System+Shutting+Down...;See+you+next+time!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,dart,flutter,react,flask,pytorch,tensorflow,opencv,firebase,linux,docker,git,vim,arduino&theme=dark&perline=9"/>
+</div>
+
+<hr>
+
+<pre>
+root@mace:~$ ls ~/projects/featured
+
+BEACON/        (Flutter, Firebase)
+  ↳ Anti-Drug Addiction Support App
+  ↳ Real-time progress tracking & recovery milestones
+  ↳ <a href="https://github.com/evinbrijesh/BEACON">https://github.com/evinbrijesh/BEACON</a>
+
+VulnTracker/  (React, Flask, Supabase)
+  ↳ Cybersecurity Threat Management Platform
+  ↳ Vulnerability tracking & risk insights
+  ↳ <a href="https://github.com/evinbrijesh/VulnTracker">https://github.com/evinbrijesh/VulnTracker</a>
+
+MiragePot/ (ACTIVE DEVELOPMENT 🚧)
+  ↳ Cybersecurity deception & honeypot-style engagement system
+  ↳ Status: designing threat models, attack surface simulation,
+           and adaptive response logic
+</pre>
+
+<hr>
+
+<pre>
+root@mace:~$ echo $FUN_FACTS
+
+• Hardware addict — custom PCs & split ergonomic keyboards
+• Daily driver: Corne v4.1
+• Touches grass via football, badminton, drawing & dance
+</pre>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/evinbrijesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-root@evin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39ff14&center=true&vCenter=true&width=520&lines=git+status;git+commit+-m+%22ship+it%22;git+push+origin+main;session+terminated.;see+you+in+the+shell+👋" />
 </div>
