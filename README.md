@@ -61,3 +61,7 @@ I build my own **custom PCs** and **split ergonomic keyboards** (currently using
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/evinbrijesh/)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=git+commit+-m+%22Thanks+for+visiting!%22;git+push+origin+main;System+Shutting+Down...;See+you+next+time!+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
