@@ -17,7 +17,7 @@
 <pre>
 root@mace:~$ whoami
 
-Evin — Computer Science & Engineering undergrad
+Evin Brijesh — Computer Science & Engineering undergrad
 Mar Athanasius College of Engineering · Class of 2027
 
 Threat models by day, broken Linux configs by night.
@@ -42,10 +42,14 @@ root@mace:~$ cat /proc/user_status
     "8086 Assembly",
     "Ergonomic Split Keyboards"
   ],
+  "experience": [
+    "Software Engineering Job Simulation — JPMorgan Chase & Co.",
+    "Computer Hardware & Networking Technician — Cirus Computers"
+  ],
   "roles": [
-    "Organizer — LUMORA Hackathon (Jan 2026)",
     "Vice Chair — IEEE CS MACE",
-    "Program Committee — GDGoC MACE"
+    "Program Committee — GDGoC MACE",
+    "CSE Dept Head — Takshak'25 Tech Fest"
   ],
   "certifications": [
     "OCI Generative AI Professional",
@@ -59,14 +63,15 @@ root@mace:~$ cat /proc/user_status
 <pre>
 root@mace:~$ ./enumerate_toolchain.sh
 
-languages   : Python, C, C++, JavaScript, Dart, Assembly
+languages   : Python, C, C++, Java, JavaScript, Dart, SQL, Assembly
 ai_ml       : PyTorch, TensorFlow, OpenCV, HuggingFace
-frameworks  : Flutter, React, Flask, Firebase, Supabase
-environment : Arch Linux, Hyprland, Docker, Git, Vim
+frameworks  : Flutter, React, Flask, Spring Boot, TailwindCSS
+infra/tools : Firebase, Supabase, Kafka, Git, Docker, Vim
+environment : Arch Linux, Hyprland
 </pre>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,dart,flutter,react,flask,pytorch,tensorflow,opencv,firebase,linux,docker,git,vim,arduino&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,flutter,react,flask,spring,firebase,linux,docker,git,vim,arduino&theme=dark&perline=9"/>
 </div>
 
 <hr>
@@ -76,18 +81,22 @@ root@mace:~$ ls ~/projects/featured
 
 BEACON/        (Flutter, Firebase)
   ↳ Anti-Drug Addiction Support App
-  ↳ Real-time progress tracking & recovery milestones
+  ↳ Milestones, progress tracking, reminders & notifications
   ↳ <a href="https://github.com/evinbrijesh/BEACON">https://github.com/evinbrijesh/BEACON</a>
 
 VulnTracker/  (React, Flask, Supabase)
-  ↳ Cybersecurity Threat Management Platform
-  ↳ Vulnerability tracking & risk insights
+  ↳ Web-based cybersecurity vulnerability & threat platform
+  ↳ Patch tracking, risk visibility & clean dashboards
   ↳ <a href="https://github.com/evinbrijesh/VulnTracker">https://github.com/evinbrijesh/VulnTracker</a>
 
-MiragePot/ (ACTIVE DEVELOPMENT 🚧)
+MiragePot.sys (ACTIVE DEVELOPMENT 🚧)
   ↳ Cybersecurity deception & honeypot-style engagement system
-  ↳ Status: designing threat models, attack surface simulation,
-           and adaptive response logic
+  ↳ Status:
+      [✓] Threat surface design
+      [✓] Attack simulation planning
+      [ ] Adaptive attacker profiling
+      [ ] Deception response engine
+      [ ] Logging & telemetry pipeline
 </pre>
 
 <hr>
